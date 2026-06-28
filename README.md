@@ -2,7 +2,7 @@
 
 Single-file universal prompt distilled from [realrossmanngroup/no\_ai\_slop\_writing\_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) by Louis Rossmann.
 
-Paste it into Claude, ChatGPT, Gemini, Copilot, or any AI agent or chatbot. All 24 rules, the full banned-words reference, structural guidance, and a self-check checklist. One file, no dependencies.
+Paste it into Qwen, Kimi, GLM, GPT, Deepseek, Gemini, Claude or any AI agent or chatbot. All 24 rules, the full banned-words reference, structural guidance, and a self-check checklist. One file, no dependencies.
 
 ## What's Inside
 
